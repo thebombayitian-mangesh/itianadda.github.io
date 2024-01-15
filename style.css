@@ -373,17 +373,19 @@ flex-direction: row;
     
     width: 50%;
     height: 20%;
+text- align:center;
 
 }
 .right{
     width: 50%;
     height: 20%;
-    
+    text-align:center;
 }
 .div-up{
     
     text-align: center;
 }
+
 .team-image{
 filter:blur(15px);
 }
@@ -505,6 +507,11 @@ a{
     align-items: center;
     flex-direction: column;
     
+}
+.team-image{ 
+width:50%;
+height:50%;
+ 
 }
 
 
