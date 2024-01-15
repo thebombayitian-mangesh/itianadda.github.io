@@ -94,7 +94,7 @@ html,body {
 .background {
     filter: brightness(150%),blur(-100%);
 
-    background: url('img/bgimage.jpg');
+    background: rgb(0,0,0.5) url('img/bgimage.jpg');
     background-size: cover;
     
 }
@@ -331,7 +331,6 @@ margin-top: 0%;
 
 i:hover {
     color: white;
-    font-size: 100px;
 
 }
  
@@ -497,14 +496,7 @@ a{
     i {
         font-size: 70px;
         padding: 5% 0%;
-    }
-    .jai{
-        filter: brightness(1000%),contrast(100%);
-        font-size: 50%;
-        font-weight:500%;
-        font: 100;
-    
-    }
+   }
     
     .section{
         padding-top: 20%;
